@@ -1,0 +1,5 @@
+com\zqi\collect\controller\CollectController.class
+com\zqi\collect\mapper\CollectMapper.class
+com\zqi\collect\service\impl\CollectServiceImpl.class
+com\zqi\collect\service\CollectService.class
+com\zqi\collect\CollectApplication.class

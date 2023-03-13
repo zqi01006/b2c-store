@@ -1,0 +1,11 @@
+com\zqi\user\controller\UserController.class
+com\zqi\user\mapper\UserMapper.class
+com\zqi\user\service\impl\AddressServiceImpl.class
+com\zqi\user\mapper\AddressMapper.class
+com\zqi\user\service\AddressService.class
+com\zqi\user\UserApplication.class
+com\zqi\user\controller\UserAdminController.class
+com\zqi\user\config\UserConfiguration.class
+com\zqi\user\service\impl\UserServiceImpl.class
+com\zqi\user\service\UserService.class
+com\zqi\user\controller\AddressController.class

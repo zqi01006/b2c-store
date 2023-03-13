@@ -1,0 +1,11 @@
+com\zqi\product\config\ProductConfiguration.class
+com\zqi\product\ProductApplication.class
+com\zqi\product\serivce\ProductService.class
+com\zqi\product\controller\ProductCollectController.class
+com\zqi\product\controller\ProductSearchController.class
+com\zqi\product\mapper\ProductMapper.class
+com\zqi\product\listener\ProductRabbitMqListener.class
+com\zqi\product\mapper\PictureMapper.class
+com\zqi\product\controller\ProductCartController.class
+com\zqi\product\serivce\impl\ProductServiceImpl.class
+com\zqi\product\controller\ProductController.class

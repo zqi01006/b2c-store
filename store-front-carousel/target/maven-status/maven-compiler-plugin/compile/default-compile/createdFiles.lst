@@ -1,0 +1,6 @@
+com\zqi\carousel\service\CarouselService.class
+com\zqi\carousel\mapper\CarouselMapper.class
+com\zqi\carousel\CarouselApplication.class
+com\zqi\carousel\controller\CarouselController.class
+com\zqi\carousel\service\impl\CarouselServiceImpl.class
+com\zqi\carousel\config\CarouselConfiguration.class

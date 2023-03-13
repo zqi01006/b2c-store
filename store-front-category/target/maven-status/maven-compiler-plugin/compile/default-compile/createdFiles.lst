@@ -1,0 +1,5 @@
+com\zqi\category\service\impl\CategoryServiceImpl.class
+com\zqi\category\CategoryApplication.class
+com\zqi\category\controller\CategoryController.class
+com\zqi\category\mapper\CategoryMapper.class
+com\zqi\category\service\CategoryService.class
